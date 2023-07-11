@@ -66,6 +66,13 @@
   --sidebar-colour: rgb(209, 209, 209);
 }
 
+/*Change Slash Command Menu background color*/
+.theme-dark .autocomplete-3NRXG8 {
+    background: #18191ba6 !important;
+}
+.theme-dark .categoryHeader-OpJ1Ly {
+    background: #18191ba6 !important;
+}
 
 /*roots*/ /*both dark and light*/
 :root {
