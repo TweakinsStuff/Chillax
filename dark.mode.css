@@ -157,7 +157,7 @@
   display: none !important;
 }
 .theme-dark .wordmark-2u86JB::before {
-  content: "‏‏‎ c h i l l a x";
+  content: "‏‏‎ m o o n w a r e";
   font-size: 12px;
   font-family: "Poiret one" !important;
   position: fixed;
@@ -172,7 +172,7 @@
   transition: 0.5s ease-in-out;
 }
 .wordmark-2u86JB:hover:before {
-  content: "‏‏‎ c h i l l a x";
+  content: "‏‏‎ m o o n w a r e";
   letter-spacing: 2px;
 }
 /* button design*/
