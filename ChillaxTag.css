@@ -28,3 +28,25 @@
   font-size: 9px;
   margin-left: 3px;
 }
+#app-mount [data-user-id="973500047503290378"] .roleColor-nA7BqX.desaturateUserColors-1O-G89,
+.subtext-2HDqJ7,
+.customStatus-1UAQAK,
+.hovered-20u3oh,
+.title-338goq,
+.iconVisibility-vptxma.wrapper-NhbLHG.modeConnected-NrO4cP .name-28HaxV.overflow-1wOqNV,
+[data-is-author-self="true"] .username-h_Y3Us,
+.emojiSection-3QtaWO .overflow-1wOqNV,
+#app-mount [data-user-id="973500047503290378"] .activityText-1rR-8O,
+#app-mount [data-user-id="973500047503290378"] .nickname-t08Mck,
+#app-mount [data-user-id="973500047503290378"] .headerTagUsernameBase-XYisdh,
+#app-mount [data-user-id="973500047503290378"] .customStatusText-3wj79x{  
+  background-image: linear-gradient(to left,rgb(51, 255, 0), rgb(255, 230, 0), red, rgb(234, 0, 255), rgb(0, 140, 255), rgb(51, 255, 0)) !important;
+  animation: gradient-border 4s linear infinite !important;
+  background-size: 400% 100% !important;
+  color: transparent !important;
+  -webkit-background-clip: text;
+  background-clip: text;
+  z-index: 1;}
+@keyframes gradient-border {
+  from {background-position: 0 0;}
+  to {background-position: 130% 0;}}
