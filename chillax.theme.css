@@ -74,6 +74,11 @@
     background: #18191ba6 !important;
 }
 
+/*Remove dashed border from the guild list buttons*/
+.theme-dark .guilds-2JjMmN .scroller-3X7KbA .circleIconButton-1VxDrg {
+    border: rgba(255, 255, 255, 0.400)!important;
+}
+
 /*roots*/ /*both dark and light*/
 :root {
   --user-name: "King";
