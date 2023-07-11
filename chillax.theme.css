@@ -40,8 +40,9 @@
 
 /*Chillax Roots*/
 :root{
-/*background image*/ /*(replace the link to use)*/
-  --background-image:var(--wallpaper);
+#ChannelsPreview {
+  background: #18191b79 !important;
+}
 /*bg dev suggestions*/
   --wallpaper: url('https://wallpaperaccess.com/full/2799204.jpg');
 /*modern background selection*/
